@@ -2,4 +2,4 @@ safe: true
 lsi: false
 #highlighter: pygments
 exclude: ["README.rst"]
-include: ["_assets","_assets/_css","_assets/_fonts","_assets/_gfx","_assets/_js"]
+include: ["_assets","_assets/_css","_assets/_css/_non-otago","_assets/_fonts","_assets/_gfx","_assets/_js"]
